@@ -2,7 +2,7 @@
 Currently, you have to build Mercury
 This will change.
 
-### Prerequisities]
+### Prerequisites
 * [MSYS2](https://msys2.org) if you're on Windows. You can use your preferred terminal if you're on Linux
   * In Windows the game must be built in the **UCRT64** or **MINGW64** shell, which come with MSYS2
   * Make sure when you have MSYS2 verify MINGW64 exists and open it. It should have a pinkish font like this
