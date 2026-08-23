@@ -7,6 +7,7 @@ This will change.
   * In Windows the game must be built in the **UCRT64** or **MINGW64** shell, which come with MSYS2
   * Make sure when you have MSYS2 verify MINGW64 exists and open it. It should have a pinkish font like this
   <img width="162" height="39" alt="image" src="https://github.com/user-attachments/assets/661ca26a-ad0f-4931-b01c-6ab987300521" />
+  
   * Run `pacman -S gcc python binutils cjson git make mingw-w64-x86_64-glew`
   A whole bunch of packages will install, please wait patiently
   
