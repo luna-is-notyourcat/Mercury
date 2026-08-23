@@ -24,9 +24,14 @@ You'll be using `git` and `make` commands, the builder will use the rest of thos
 
 * Clone with the link of the repo: `git clone https://github.com/Kaiju2019/Mercury`
   * You can download the [source code](https://github.com/Kaiju2019/Mercury/archive/refs/heads/main.zip) if you prefer
-* Run `cd Mercury` to get to the files or  `cd path\to\your\good\ol\build\folder` (ex; `cd C:\Users\UrUserLol\Documents\game`) if you extracted the source code somewhere else
+    
+* Run `cd Mercury` to get to the files or  `cd path\to\your\good\ol\build\folder`
+  * (ex; `cd C:\Users\UrUserLol\Documents\game`) if you extracted the source code somewhere else
+    
 * Run `make` (or `make -j$(nproc)` to speed up compilation at the cost of using more CPU power)
   * The build will make your package manager (ex; pacman, on mingw64 by default) install necessary dependencies
+    
 * The built game will be located in the `build/us_pc` directory
   * On Windows, you can run `explorer build/us_pc` or `explorer .` if you're already in the build, to open File Explorer in that directory
+    
 To debug you can also `./sm64coopdx` on either os to see the log in real-time
