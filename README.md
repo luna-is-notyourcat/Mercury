@@ -9,7 +9,7 @@ This will change.
   <img width="162" height="39" alt="image" src="https://github.com/user-attachments/assets/661ca26a-ad0f-4931-b01c-6ab987300521" />
   
   * Run `pacman -S gcc python binutils cjson git make mingw-w64-x86_64-glew`
-  A whole bunch of packages will install, please wait patiently
+  * A whole bunch of packages will install, please wait patiently
   
 ### Compiling
 You'll be using `git` and `make` commands, the builder will use the rest of those other packages you installed earlier
