@@ -35,3 +35,4 @@ You'll be using `git` and `make` commands, the builder will use the rest of thos
   * On Windows, you can run `explorer build/us_pc` or `explorer .` if you're already in the build, to open File Explorer in that directory
     
 To debug you can also `./sm64coopdx` on either os to see the log in real-time
+or `./your-exe-name`
