@@ -11,7 +11,7 @@ This will change.
   A whole bunch of packages will install, please wait patiently
   
 ### Compiling
-You'll be using `git` and `make` commands
+You'll be using `git` and `make` commands, the builder will use the rest of those other packages you installed earlier
 
 * Clone with the link of the repo: `git clone https://github.com/Kaiju2019/Mercury`
   * You can download the [source code](https://github.com/Kaiju2019/Mercury/archive/refs/heads/main.zip) if you prefer
