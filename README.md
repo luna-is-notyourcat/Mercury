@@ -1,7 +1,9 @@
-# Mercury, a fork of Pluto
-Currently, you have to build Mercury
+# Mercury, a fork of Pluto created by Cats.
+Halt!!!!1!1!!1
+If you don't want outdated standalone Pluto, don't compile this yet! just go compile Pluto, or, download the prebuilt Releases (far more ideal)
+# 
 
-This will change.
+Currently, you have to build Mercury, however I'll try to make prebuilds later on down the line, if needed
 
 ### Prerequisites
 * [MSYS2](https://msys2.org) if you're on Windows. You can use your preferred terminal if you're on Linux
